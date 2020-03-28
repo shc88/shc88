@@ -5,7 +5,7 @@
 		<title></title>
 	</head>
 	<body>
-		 <table>
+		
 			 <tr>
 				 <td><a href="">任务1</a></td>
 				 <td><a href="">任务2</a></td>
@@ -17,7 +17,7 @@
 				 <td><a href="">任务8</a></td>
 				 <td><a href="">任务9</a></td>
 			 </tr>
-		 </table>
+	
 		  
-	</body>
+
 </html>
